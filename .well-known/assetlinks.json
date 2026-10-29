@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.sofaleya.schitalochka",
+        "sha256_cert_fingerprints": ["A4:DA:10:02:E3:1F:62:A6:A2:31:C9:E5:86:F8:2E:FB:59:D3:34:DC:CF:B5:FE:DB:18:57:82:20:A1:68:B1:D5"]
+      }
+    }]
