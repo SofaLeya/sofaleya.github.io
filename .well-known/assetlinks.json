@@ -22,5 +22,17 @@
         "01:5C:4E:D5:CD:88:3A:1C:48:80:4A:95:98:F9:FB:E8:67:81:FF:50:25:47:67:C9:03:74:92:65:B9:D2:A9:E8"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.sofaleya.umyvanie",
+      "sha256_cert_fingerprints": [
+        "55:49:E8:74:0F:E4:00:8A:E7:A1:3C:7F:21:F9:DD:B2:71:02:22:DB:D0:30:F4:A0:C2:27:BC:1C:43:2F:C6:A1"
+      ]
+    }
   }
 ]
